@@ -1,0 +1,1 @@
+Simple app, which lets You to create Your own sets of FlashCards, and learn from them.
